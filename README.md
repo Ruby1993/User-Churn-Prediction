@@ -4,13 +4,13 @@
 The project is focused to identify the potential customer who will stop use the service in the future based on the the user behavior and basic information dataset. The project incorporate different supervised learning models such as logistic regression, random forest, k-nearest neighbors, SVM to predict the likelihood for each user, as well as to identify the feature importance to help business improve the service and operation.
 
 # Proccess
-> Dataset Exploration: dataset cleaning, feature understanding
+**Dataset Exploration**: dataset cleaning, feature understanding
 
-> Feature Preparation: categorical features to dummy variables, normalization/standardization
+**Feature Preparation**: categorical features to dummy variables, normalization/standardization
 
-> Model Train: optimal parameters by grid search, model setup, cross validation
+**Model Training**: optimal parameters by grid search, model setup, cross validation
 
-> Feature Importance: Deploy logistic regress, RFE, random forest to identify the top features.
+**Feature Importance**: Deploy logistic regress, RFE, random forest to identify the top features.
 
 # Reflection
 
